@@ -1,0 +1,7 @@
+{
+  "name": "ZhongwenMastery - Chinese Vocabulary Tracker",
+  "description": "An advanced Chinese vocabulary learning application with spaced repetition, Gemini-powered word enrichment, and detailed progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
